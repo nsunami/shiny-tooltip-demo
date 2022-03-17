@@ -39,7 +39,7 @@ ui <- fluidPage(
                                icon("github"),
                                tags$span(class = "mytooltiptext",
                                          tags$a("Check out the repo!",
-                                                href="#",
+                                                href="https://github.com/nsunami/shiny-tooltip-demo",
                                                 target="_blank")
                                )))
         )
